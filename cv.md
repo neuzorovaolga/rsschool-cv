@@ -1,6 +1,6 @@
 # OLGA NEVZOROVA
 
-![](//IMG_5554.png)
+![photo](./IMG_5554.png)
 
 ## JUNIOR FRONTEND DEVELOPER
 
