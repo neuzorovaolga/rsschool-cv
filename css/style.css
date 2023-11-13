@@ -1,0 +1,18 @@
+*,
+*::after,
+*::before {
+    box-sizing: border-box;
+    margin: 0;
+    padding: 0;
+    border: 0;
+}
+
+body {
+    max-height: 100vh;
+    background-color: rgb(252, 236, 215);
+}
+
+img {
+    display: block;
+    margin: auto;
+}
